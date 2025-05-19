@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{background-color:#E6F2F4;}
+
+#Logo {float: left; margin:25px 0px;}
+#Icon {float: right; margin:25px 0px;}
+#navigation 
+{
+	clear:both;
+	border-top: solid blue 1px;
+	border-bottom: solid blue 1px;
+	word-spacing:20px;
+	margin: 20px;
+	padding: 10px;
+	
+}
+
+#Weldow h1
+{
+	color:darkslateblue;
+	border-bottom:solid black 0.5px;
+	padding: 10px;
+}
+
+
+#Weldow {float:left; width:600px;}
+#kanan {float:right; width:250px;}
+#Footer {clear:both;}
+
+#Kotak {background-color:white; margin:0px auto; width:950px}
+
+#KotakKotak {background-color:white; margin:0px auto; width:900px}
+
+#kanan h3
+{
+	color:darkslateblue;
+}
+
+#Weldow img
+{
+	clear:both;
+	border:solid darkslateblue 1px;
+	padding:6px;
+}
+
+#navigation a {text-decoration:none;}
+#navigation a:link {color:lightpink;}
+#navigation a:hover {color:#f90;}
+#navigation a:visited {color:lightpink;}
+
+
+#ModernRoom
+{
+	width:250px;
+	border-top:solid hotpink 10px;
+	background-color:lightgray;
+	float:left;
+	margin-left:10px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+#ModernRoom h5
+{
+	color:blue;
+}
+
+#TraditionalRoom 
+{
+	width:250px;
+	border-top:solid purple 10px;
+	background-color:lightgray;
+	float:left;
+	margin-left:20px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+#TraditionalRoom h5
+{
+	color:blue;
+}
+
+#ContemporaryRoom 
+{
+	width:250px;
+	border-top:solid magenta 10px;
+	background-color:lightgray;
+	float:left;
+	margin-left:20px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+#ContemporaryRoom h5
+{
+	color:blue;
+}
+
+#Weldow1 h1
+{
+	color:darkslateblue;
+	border-bottom:solid black 0.5px;
+	padding: 10px;
+}
+
+
+#Weldow {float:left; width:600px;}
+#kanan {float:right; width:250px;}
+#Footer {clear:both;
+}
+
+#Footer 
+{
+	clear:both; 
+	border-top:solid black 1.5px; 
+	text-align:center;
+	padding-top: 5px;
+	padding-bottom: 7px;
+}
+
+#Weldow2 h1
+{
+	color:darkslateblue;
+	border-bottom:solid black 0.5px;
+	padding: 10px;
+}
+
+ul
+{
+	display:block;
+	list-style-type: disc;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline_start : 0px;
+	margin-inline-end: 0px;
+	padding-inline-start: 0px;
+	unicode-bidi: isolate;
+}
